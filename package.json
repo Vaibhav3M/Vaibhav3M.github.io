@@ -1,0 +1,29 @@
+{
+  "name": "vaibhav-portfolio",
+  "version": "1.0.0",
+  "description": "Vaibhav's portfolio.",
+  "keywords": [],
+  "main": "src/index.js",
+  "homepage": "https://vaibhav3m.github.io",
+  "dependencies": {
+    "moment": "2.30.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
