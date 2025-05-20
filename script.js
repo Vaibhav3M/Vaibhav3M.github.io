@@ -1,4 +1,4 @@
-const countDownDate = new Date(2025, 3, 25, 10, 0, 0).getTime(); // March 25, 2025 at 10:00:00
+const countDownDate = new Date(2025, 6, 25, 10, 0, 0).getTime(); // June 25, 2025 at 10:00:00
 
 // Update the countdown every second
 const countdownElement = document.getElementById('countdown');
